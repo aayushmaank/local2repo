@@ -1,0 +1,68 @@
+.container {
+  width: 700px;
+  margin: 0 auto;
+}
+
+article {
+  border: 5px solid black;
+  font-family: sans-serif;
+}
+
+h2 {
+  padding: 10px;
+  text-transform: uppercase;
+  text-align: center;
+  background-color: #e8e8e8;
+  margin: 0;
+}
+
+.shipping {
+  margin-top: 0;
+  font-size: 15px;
+  text-transform: uppercase;
+  color: grey;
+  font-weight: bold;
+}
+
+.prod-details {
+  margin-bottom: 0;
+}
+
+h3 {
+  font-size: 16px;
+  text-transform: uppercase;
+}
+
+.price {
+  margin-top: 5px;
+  margin-bottom: 0;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+a:link {
+  color: black;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+button {
+  margin-top: 0;
+  padding: 10px;
+  width: 100%;
+  height: auto;
+  text-transform: uppercase;
+  background-color: black;
+  color: white;
+  border: none;
+  font-size: 20px;
+}
+
+button:hover {
+  border-top: black solid 5px;
+  color: black;
+  background-color: white;
+  cursor: pointer;
+}
